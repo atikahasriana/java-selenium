@@ -1,0 +1,14 @@
+web_saucedemo\enums\AppMenu.class
+web_saucedemo\tests\testng\testcases\TC002_Logout.class
+web_saucedemo\contexts\CheckoutYourInfoData.class
+web_saucedemo\pages\ProductsPage.class
+web_saucedemo\tests\testng\testcases\BaseTest.class
+web_saucedemo\pages\ShoppingCartPage.class
+web_saucedemo\pages\HeaderPage.class
+automation\enums\Browsers.class
+automation\selenium\BrowserFactory.class
+web_saucedemo\pages\LoginPage.class
+web_saucedemo\pages\BasePage.class
+web_saucedemo\tests\testng\testcases\TC001_AddToCart_Checkout.class
+web_saucedemo\config\EnvironmentVariables.class
+web_saucedemo\pages\CheckoutPage.class
