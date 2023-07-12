@@ -11,7 +11,7 @@ Before you can run this project, you must have the following software installed 
 - Google Chrome web browser
 
 ## Installation
-1. Clone this repository to your local machine using `git clone https://github.com/marizala/java-selenium.git`
+1. Clone this repository to your local machine using `https://github.com/atikahasriana/java-selenium.git`
 2. Navigate to the project directory using the command line.
 3. Install the dependencies and run the smoke test plan (configured).  
    `mvn clean install`
