@@ -1,6 +1,3 @@
-# GTL/Tokopedia SDET Home Assignment
-This project showcases an automation script as part of my submission for the GTL/Tokopedia Home Assignment as an SDET (Software Development Engineer in Test).
-
 # Getting Started
 
 ## Prerequisites
