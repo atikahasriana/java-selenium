@@ -17,7 +17,7 @@ public class TC001_AddToCart_Checkout extends BaseTest {
     String dtPassword = "secret_sauce";
 
     String prod1 = "Sauce Labs Backpack";
-    String prod2 = "Test.allTheThings() T-Shirt (Red)";
+//    String prod2 = "Test.allTheThings() T-Shirt (Red)";
 
     @Test
     public void TC001_AddToCart_Checkout() throws InterruptedException {
